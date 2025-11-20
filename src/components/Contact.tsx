@@ -70,7 +70,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Email</h4>
-                    <p className="text-muted-foreground">hello@mindura.com</p>
+                    <p className="text-muted-foreground">minduraindia@gmail.com</p>
                   </div>
                 </div>
 
@@ -80,7 +80,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Phone</h4>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground">+91 7972018469</p>
                   </div>
                 </div>
 
@@ -91,8 +91,8 @@ const Contact = () => {
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Office</h4>
                     <p className="text-muted-foreground">
-                      123 Education Street<br />
-                      San Francisco, CA 94105
+                      Tower D, Sri Sri Areo City<br />
+                      Adibatla, Hyderabad 501510
                     </p>
                   </div>
                 </div>
